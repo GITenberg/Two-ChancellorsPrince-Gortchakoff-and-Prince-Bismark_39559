@@ -1,0 +1,37 @@
+_repo: Two-ChancellorsPrince-Gortchakoff-and-Prince-Bismark_39559
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ward, Frank P.
+    gutenberg_agent_id: '44558'
+    url: http://www.gutenberg.org/2009/agents/44558
+covers:
+- cover_type: archival
+  image_path: 39559-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Klaczko, Julian
+    aliases:
+    - Klaczko, Julien
+    - Klaczko, Juljan
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '40082'
+    url: http://www.gutenberg.org/2009/agents/40082
+description: ''
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39559'
+  lccn: '05015463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bismarck, Otto, Fürst von, 1815-1898'
+- !lcsh 'Gorchakov, Aleksandr Mikhailovich, kniaz'', 1798-1883'
+- !lcc 'D'
+- !lcsh 'Europe -- Politics and government -- 1789-1900'
+title: 'Two Chancellors: Prince Gortchakof and Prince Bismarck'
+url: http://www.gutenberg.org/ebooks/39559
